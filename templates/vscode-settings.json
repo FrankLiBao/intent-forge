@@ -1,0 +1,13 @@
+{
+    "chat.promptFilesRecommendations": {
+        "intent.constitution": true,
+        "intent.specify": true,
+        "intent.plan": true,
+        "intent.tasks": true,
+        "intent.implement": true
+    },
+    "chat.tools.terminal.autoApprove": {
+        ".intent/scripts/bash/": true,
+        ".intent/scripts/powershell/": true
+    }
+}
