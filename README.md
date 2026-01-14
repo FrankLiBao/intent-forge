@@ -61,7 +61,7 @@ intent check
 升级 Intent 工具:
 
 ```bash
-uv tool install intent-cli --force --from git+https://github.com/YOUR_ORG/intent-forge.git
+uv tool install intent-cli --force --from git+https://github.com/FrankLiBao/intent-forge.git
 ```
 
 #### 方式 2: 一次性使用
